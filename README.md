@@ -1,6 +1,6 @@
 # personal-toolkit
 
-`personal-toolkit` is a personal knowledge base for the software, tools, and configuration notes I use regularly.
+`Personal-toolkit` is a personal knowledge base for the software, tools, and configuration notes I use regularly.
 
 This repository is used to keep track of:
 
