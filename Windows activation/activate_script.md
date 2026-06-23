@@ -1,6 +1,6 @@
 MAS激活命令：
 
-`` `irm https://massgrave.dev/get | iex`` `
+``irm https://massgrave.dev/get | iex``
 
 请复制上面这段命令粘贴，如果手打请注意 | 两边都有空格
 
